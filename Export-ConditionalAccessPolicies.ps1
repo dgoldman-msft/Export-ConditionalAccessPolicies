@@ -1,4 +1,4 @@
-﻿function Export-ConditionalAccessPolicy {
+﻿function Export-ConditionalAccessPolicies {
 
     <#
         .SYNOPSIS
